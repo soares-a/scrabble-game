@@ -1,4 +1,4 @@
-#Lab2 CS50 Harvard Week2 
+# Lab2 CS50 Harvard Week2 
 
 # Scrabble Game
 
